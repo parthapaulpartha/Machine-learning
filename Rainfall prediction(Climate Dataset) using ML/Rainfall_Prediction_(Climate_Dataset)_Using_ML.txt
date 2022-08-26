@@ -1,0 +1,3 @@
+Rainfall_Prediction_(Climate_Dataset)_Using_ML:
+Here we will predict rainfall using ML from climate dataset. In this rainfall prediction we will build some Machine learning regression model to predict the rainfall and use accurecy, precision,recall and f1-score to measure performance of model.
+Then we will check which ML model provide best accuracy, after that we will make a predictive system using Best ML Regressor model.
